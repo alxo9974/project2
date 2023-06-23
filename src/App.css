@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  color: #111;
+}
+
+body {
+  height: 2000px;
+}
+
+@font-face {
+  font-family: "TTWanjudaedunsancheB";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/TTWanjudaedunsancheB.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
